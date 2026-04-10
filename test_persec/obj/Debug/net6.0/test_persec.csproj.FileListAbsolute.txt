@@ -1,0 +1,15 @@
+C:\Users\User\Downloads\APNS\test_persec\test_persec\bin\Debug\net6.0\test_persec.exe
+C:\Users\User\Downloads\APNS\test_persec\test_persec\bin\Debug\net6.0\test_persec.deps.json
+C:\Users\User\Downloads\APNS\test_persec\test_persec\bin\Debug\net6.0\test_persec.runtimeconfig.json
+C:\Users\User\Downloads\APNS\test_persec\test_persec\bin\Debug\net6.0\test_persec.dll
+C:\Users\User\Downloads\APNS\test_persec\test_persec\bin\Debug\net6.0\test_persec.pdb
+C:\Users\User\Downloads\APNS\test_persec\test_persec\obj\Debug\net6.0\test_persec.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\APNS\test_persec\test_persec\obj\Debug\net6.0\test_persec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\APNS\test_persec\test_persec\obj\Debug\net6.0\test_persec.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\APNS\test_persec\test_persec\obj\Debug\net6.0\test_persec.AssemblyInfo.cs
+C:\Users\User\Downloads\APNS\test_persec\test_persec\obj\Debug\net6.0\test_persec.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\APNS\test_persec\test_persec\obj\Debug\net6.0\test_persec.dll
+C:\Users\User\Downloads\APNS\test_persec\test_persec\obj\Debug\net6.0\refint\test_persec.dll
+C:\Users\User\Downloads\APNS\test_persec\test_persec\obj\Debug\net6.0\test_persec.pdb
+C:\Users\User\Downloads\APNS\test_persec\test_persec\obj\Debug\net6.0\test_persec.genruntimeconfig.cache
+C:\Users\User\Downloads\APNS\test_persec\test_persec\obj\Debug\net6.0\ref\test_persec.dll
